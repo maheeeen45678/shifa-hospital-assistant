@@ -1,0 +1,146 @@
+[
+    {
+        "text": "HOSPITAL KNOWLEDGE BASE — SYNTHETIC RAG DATASET\n\nThis folder contains fictional/assumed hospital documents created only for a multi-document RAG practice project.\nThey are NOT official documents of any hospital.\n\nFolders:\n01_Admissions\n02_Departments\n03_Emergency\n04_Hospital\n05_Patient_Safety\n\nEach folder contains multiple documents so the RAG system can retrieve information from different files.",
+        "source": "hospital_knowledge_base/README.txt",
+        "filename": "README.txt",
+        "department": "hospital_knowledge_base",
+        "document_type": "txt",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "02 Hospital Visitor Policy\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nVisitor Access\nVisitors may enter designated patient areas according to assumed hospital visiting arrangements.\nIdentification\nVisitors may be asked to provide identification or follow ward access procedures.\nPatient Privacy\nVisitors should respect patient privacy and should not access confidential records.\nRestricted Areas\nClinical, pharmacy, laboratory, and other controlled areas may require authorization.\nSafety\nVisitors must follow staff instructions during emergencies and infection-control situations.",
+        "source": "hospital_knowledge_base/04_Hospital/02_Hospital_Visitor_Policy.docx",
+        "filename": "02_Hospital_Visitor_Policy.docx",
+        "department": "04_Hospital",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "01 Hospital Operations Manual\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPurpose\nThis synthetic manual provides general assumed operating information for a hospital knowledge-base demonstration.\nOperating Structure\nThe hospital operates through clinical, administrative, financial, technical, and support departments.\nPatient Flow\nA typical patient journey may include registration, assessment, diagnostics, treatment, admission or discharge, and billing.\nCommunication\nDepartments communicate through approved hospital systems and documented escalation channels.\nConfidentiality\nPatient and employee information should only be accessed by authorized personnel for legitimate work purposes.\nIncident Management",
+        "source": "hospital_knowledge_base/04_Hospital/01_Hospital_Operations_Manual.docx",
+        "filename": "01_Hospital_Operations_Manual.docx",
+        "department": "04_Hospital",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "Confidentiality\nPatient and employee information should only be accessed by authorized personnel for legitimate work purposes.\nIncident Management\nSafety, clinical, security, and operational incidents should be documented through the relevant reporting process.",
+        "source": "hospital_knowledge_base/04_Hospital/01_Hospital_Operations_Manual.docx",
+        "filename": "01_Hospital_Operations_Manual.docx",
+        "department": "04_Hospital",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 1
+    },
+    {
+        "text": "01 Admissions Policy\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPurpose\nThis synthetic practice policy explains the assumed admission workflow for a hospital knowledge-base demonstration.\nRegistration\nAdmissions staff verify patient identity, contact information, referral details, and the reason for admission.\nAdmission Order\nThe relevant clinical team confirms that an admission is required before the patient is assigned to an inpatient area.\nBed Assignment\nThe admissions desk checks available beds and coordinates placement with the receiving ward.\nRequired Documentation\nAdmission forms, consent documents where applicable, identification information, and relevant referral documents are recorded.\nHandover",
+        "source": "hospital_knowledge_base/01_Admissions/01_Admissions_Policy.docx",
+        "filename": "01_Admissions_Policy.docx",
+        "department": "01_Admissions",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "Admission forms, consent documents where applicable, identification information, and relevant referral documents are recorded.\nHandover\nThe receiving department is informed when the patient is transferred to the assigned area.",
+        "source": "hospital_knowledge_base/01_Admissions/01_Admissions_Policy.docx",
+        "filename": "01_Admissions_Policy.docx",
+        "department": "01_Admissions",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 1
+    },
+    {
+        "text": "02 Admission Checklist\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPatient Identification\nConfirm the patient's name, identification details, and medical record number.\nAdministrative Details\nRecord contact information, emergency contact, payer or billing information where applicable.\nClinical Information\nConfirm the admission request and relevant clinical documentation.\nBed and Ward\nConfirm bed availability and communicate the assigned ward to the patient and receiving team.\nCompletion\nCheck that required admission forms have been completed before closing the admission task.",
+        "source": "hospital_knowledge_base/01_Admissions/02_Admission_Checklist.docx",
+        "filename": "02_Admission_Checklist.docx",
+        "department": "01_Admissions",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "01 Emergency Department SOP\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPurpose\nThis synthetic SOP describes an assumed emergency department workflow for RAG practice.\nArrival\nPatients arriving at the emergency department are registered or identified according to the emergency registration process.\nInitial Assessment\nClinical staff perform an initial assessment to determine urgency and immediate care needs.\nTriage\nPatients are prioritized according to the assumed emergency triage procedure.\nTreatment\nPatients receive appropriate emergency assessment and treatment by authorized clinical staff.\nDisposition\nAfter assessment, the patient may be discharged, observed, admitted, or transferred according to the clinical decision.",
+        "source": "hospital_knowledge_base/03_Emergency/01_Emergency_Department_SOP.docx",
+        "filename": "01_Emergency_Department_SOP.docx",
+        "department": "03_Emergency",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "Disposition\nAfter assessment, the patient may be discharged, observed, admitted, or transferred according to the clinical decision.\nDocumentation\nEmergency assessment, treatment, and disposition information is recorded in the patient record.",
+        "source": "hospital_knowledge_base/03_Emergency/01_Emergency_Department_SOP.docx",
+        "filename": "01_Emergency_Department_SOP.docx",
+        "department": "03_Emergency",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 1
+    },
+    {
+        "text": "02 Emergency Escalation Guide\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nCritical Patient\nA critically ill patient should be immediately escalated to the responsible emergency clinician and relevant clinical team.\nDiagnostic Support\nLaboratory and radiology services may be requested when clinically required.\nAdmission\nPatients requiring inpatient care are referred to the admissions process after the clinical decision.\nTransfer\nIf the required service is unavailable, the responsible clinical team follows the hospital transfer procedure.",
+        "source": "hospital_knowledge_base/03_Emergency/02_Emergency_Escalation_Guide.docx",
+        "filename": "02_Emergency_Escalation_Guide.docx",
+        "department": "03_Emergency",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "01 Patient Safety Policy\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPurpose\nThis synthetic policy establishes assumed patient-safety practices for a RAG demonstration.\nPatient Identification\nStaff should use appropriate identifiers before medication administration, specimen collection, procedures, and transfers.\nMedication Safety\nMedication orders should be checked against patient information and the authorized clinical order.\nFall Prevention\nPatients identified as having a fall risk should receive appropriate precautions and monitoring.\nCommunication\nImportant changes in patient condition should be communicated promptly to the responsible clinical team.\nIncident Reporting",
+        "source": "hospital_knowledge_base/05_Patient_Safety/01_Patient_Safety_Policy.docx",
+        "filename": "01_Patient_Safety_Policy.docx",
+        "department": "05_Patient_Safety",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "Communication\nImportant changes in patient condition should be communicated promptly to the responsible clinical team.\nIncident Reporting\nPatient-safety incidents and near misses should be reported through the approved reporting process.",
+        "source": "hospital_knowledge_base/05_Patient_Safety/01_Patient_Safety_Policy.docx",
+        "filename": "01_Patient_Safety_Policy.docx",
+        "department": "05_Patient_Safety",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 1
+    },
+    {
+        "text": "02 Incident Reporting SOP\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nImmediate Response\nStaff should first address immediate patient safety needs and notify the responsible clinical team.\nReport\nThe incident should be documented with the date, location, people involved, and factual description.\nReview\nThe relevant department reviews the event and identifies immediate corrective actions.\nEscalation\nSerious or high-risk incidents are escalated to Patient Safety and appropriate hospital leadership.\nFollow-up\nThe safety team may review trends and recommend preventive measures.",
+        "source": "hospital_knowledge_base/05_Patient_Safety/02_Incident_Reporting_SOP.docx",
+        "filename": "02_Incident_Reporting_SOP.docx",
+        "department": "05_Patient_Safety",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "01 Hospital Department Guide\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPurpose\nThis synthetic guide describes assumed hospital departments for testing a multi-document RAG system.\nAdmissions\nHandles patient registration, admission coordination, and related administrative processing.\nEmergency Department\nProvides initial assessment and urgent care for patients requiring emergency services.\nPharmacy\nHandles medication preparation, dispensing, storage, and pharmacy-related queries.\nLaboratory\nProcesses diagnostic specimens and laboratory testing.\nRadiology\nCoordinates diagnostic imaging services and imaging reports.\nNursing\nProvides nursing care, monitoring, documentation, and shift handover.\nFinance",
+        "source": "hospital_knowledge_base/02_Departments/01_Hospital_Department_Guide.docx",
+        "filename": "01_Hospital_Department_Guide.docx",
+        "department": "02_Departments",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    },
+    {
+        "text": "Coordinates diagnostic imaging services and imaging reports.\nNursing\nProvides nursing care, monitoring, documentation, and shift handover.\nFinance\nHandles billing, payments, refunds, and financial records.\nHuman Resources\nHandles employee records, recruitment, leave, attendance, and workplace matters.\nPatient Safety and Quality\nCoordinates incident reporting, safety monitoring, and quality improvement.",
+        "source": "hospital_knowledge_base/02_Departments/01_Hospital_Department_Guide.docx",
+        "filename": "01_Hospital_Department_Guide.docx",
+        "department": "02_Departments",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 1
+    },
+    {
+        "text": "02 Department Responsibilities\nSYNTHETIC PRACTICE DOCUMENT — NOT AN OFFICIAL HOSPITAL POLICY\nVersion: 1.0 | Purpose: Multi-document RAG testing\nPatient Services\nSupports registration, patient inquiries, complaints, and administrative coordination.\nClinical Departments\nProvide specialty-specific patient assessment and treatment according to hospital procedures.\nSupport Services\nIncludes areas such as laboratory, radiology, pharmacy, facilities, and information technology.\nEscalation\nQuestions should be directed to the department responsible for the relevant service.",
+        "source": "hospital_knowledge_base/02_Departments/02_Department_Responsibilities.docx",
+        "filename": "02_Department_Responsibilities.docx",
+        "department": "02_Departments",
+        "document_type": "docx",
+        "page": null,
+        "chunk_id": 0
+    }
+]
